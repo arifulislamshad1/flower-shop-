@@ -58,6 +58,7 @@ nav li a{
     background-repeat: no-repeat;
     padding: 50px 240px 0px 240px;
     display: flex;
+    max-width: 1920px;
 }
 .profile-pic{
     max-width: 600px;
