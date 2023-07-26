@@ -58,7 +58,7 @@ nav li a{
     background-repeat: no-repeat;
     padding: 50px 240px 0px 240px;
     display: flex;
-    max-width: 1920px;
+
 }
 .profile-pic{
     max-width: 600px;
@@ -79,11 +79,61 @@ padding:0px 97px 0px 0px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
 font-weight: 400;
+
+}
+
+/*feacher*/
+
+.feachers-container{
+    display: flex;
+    padding: 48px 240px 0px 240px;
+    gap: 50px;
+    margin: auto;
+   
+}
+
+.feachers-colum-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 75px 0px 75px;
+    
+
+
 }
 
 
+.feachers-colum-2{
 
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 115px 47px 51px 47px;
+}
 
+.feachers-colum-3{
 
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 70px 75px 0px 75px;
 
+}
+.feachers-container-tittle{
+    padding-top: 50px;
+   
 
+}
+
+.feachers-info{
+    text-align: center;
+}
+.feachers-tittle{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.feachers-discription{
+    text-align: center;
+    font-size: 20px;
+    color: #474747;
+}
