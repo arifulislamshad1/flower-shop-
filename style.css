@@ -14,6 +14,12 @@ color: white;
 border: 0;
 }
 
+.content-primary{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+}
 /*nav related styles*/
 
 .div-nav{
@@ -147,14 +153,10 @@ font-size: 40px;
 font-weight: 800;
 
 }
-.feachers-discription{
-    color: rgba(39, 39, 39, 0.60);
-    text-align: center;
-    font-size: 18px;
-    line-height: 30px; 
+ 
 
     
-}
+
 .feachers-img{
  
     height: 100%;
@@ -166,11 +168,17 @@ font-weight: 800;
 }
 .feachers-flower-name{
     margin-top: 25px;
-    margin-bottom: 120px;
+ color: #272727;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
 }
 
 .feachers{
     align-items: center;
+   
 }
 .feachers-about{
    
@@ -178,3 +186,34 @@ max-width: 40%;
 margin-left: auto;
 margin-right: auto;
 }
+/*delivery*/
+.delivery-container{
+    display: flex;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin:128px 240px ;
+align-items: center;
+justify-content: space-around;
+padding: 85px 240px 85px 175px;
+}
+
+/*hot deal*/
+
+.hotdeal-container{
+    display: flex;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+align-items: center;
+padding: 100px 400px ;
+
+}
+
+.hotdeal-content{
+    text-align: center;
+}
+.hotdeal-content h2{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+
