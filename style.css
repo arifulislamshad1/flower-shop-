@@ -221,3 +221,98 @@ font-weight: 800;
     width: 50%;
    
 }
+
+/*social section*/
+
+.social-info .content-primary{
+    max-width: 30%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+    
+}
+.social-info h2{
+    text-align: center;
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-top: 100px;
+
+}
+
+
+/*images design list*/
+
+.images-design-container{
+
+    display: flex;
+    padding: 45px 240px 0px 240px;
+    justify-content: space-around;
+
+}
+
+/* Subscribe system */
+
+.subscribe-container{
+    background-image: url('/images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    border: none;
+    text-align: center;
+   margin: 120px 320px;
+   width: 70%;
+  
+  
+   
+ 
+
+}
+    
+.subscribe-input-f{
+    border-radius: 8px;
+background-color: #FFF;
+width: 650px;
+height: 60px;
+margin-left: 280px;
+
+color: rgba(39, 39, 39, 0.60);
+text-align: left;
+font-size: 16px;
+
+
+
+
+
+}
+.subscribe-input{
+   
+    display: flex;
+}
+.subscribe-tittle{
+    padding: 100px 500px 0px 500px;
+
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+
+.subscribe-input .btn-primary{
+    margin-left: 15px;
+}
+
+ .subscribe-content .content-primary{
+    margin-bottom: 40px;
+ }
+
+
+
+
+
+
+
+
+
+
+
