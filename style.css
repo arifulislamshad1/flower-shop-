@@ -259,7 +259,7 @@ padding-top: 100px;
 /* Subscribe system */
 
 .subscribe-container{
-    background-image: url("images/rectangle9.png");
+    background-image: url('images/rectangle9.png');
     background-repeat: no-repeat;
     height: 600px;
     border: none;
